@@ -1,3 +1,3 @@
 # Rayas
 
-A font focused on math.
+A font project focused on math.
